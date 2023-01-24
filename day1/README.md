@@ -1,5 +1,5 @@
 # sql-problems
-# day1
+## day1
 
 Given the users table containing all the details about the user whether he is client or driver and whether the user is banned or not
 
