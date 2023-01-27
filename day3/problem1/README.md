@@ -1,5 +1,5 @@
 # sql-problems
-## day2
+## day3
 
 
 Product recommendation. Just the basic type (“customers who bought this also bought…”). That, in its simplest form, is an outcome of basket analysis. 
