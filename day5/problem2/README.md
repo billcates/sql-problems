@@ -19,3 +19,7 @@ Activity table:
 2)Write a query to find the number of active users each week
 
 3)find the number of users who installed and purchased on same day
+
+4)calculate the percentage of country wise paid customers to the total paid customers
+
+5)find the users who installed the app on a given day and purchased the app the very next day
