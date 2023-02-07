@@ -10,23 +10,34 @@ Write a query to update the Facebook advertiser's status using the daily_pay tab
 Output the user id and current payment status sorted by the user id.
 
 advertiser Table:
+
 Column Name	Type
 user_id	string
 status	string
-advertiser Example Input:
+
+advertiser 
+
+Example Input:
+
 user_id	status
 bing	NEW
 yahoo	NEW
 alibaba	EXISTING
+
 daily_pay Table:
+
 Column Name	Type
 user_id	string
 paid	decimal
-daily_pay Example Input:
+
+daily_pay 
+Example Input:
+
 user_id	paid
 yahoo	45.00
 alibaba	100.00
 target	13.00
+
 Definition of advertiser status:
 
 New: newly registered users who made their first payment.
